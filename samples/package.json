@@ -1,0 +1,10 @@
+{
+    "name": "EchoBot",
+    "version": "1.0.0",
+    "main": "server.js",
+    "devDependencies": {
+        "botbuilder": "^3.6.0",
+        "restify": "^4.3.0",
+        "request": "^2.79.0"
+    }
+}
